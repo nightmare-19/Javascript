@@ -1,7 +1,7 @@
 // Immediately Invoked Function Expression (IFFE)
 
 (function chai(){
-    //name IFFE
+    //named IFFE
     console.log("DB Connected");
 })();
 
