@@ -1,3 +1,5 @@
+//Filter function
+
 //const coding = ['js','ruby','java','python','cpp']
 
 const myNums = [1,2,3,4,5,6,7,8,9,10]
